@@ -8,5 +8,5 @@ Topics that are covered in this exploration include:
 2. Creating new tables with DAX
 3. Adding calculated columns with DAX
 4. Building measures and relationships
-5. Developing cire visualizations -> cards, slicers, treemap, watterfall chart, line stacked shart, scatter chart, stacked bar chart, clustered column chart, gauge chart, donut chart
+5. Developing core visualizations -> cards, slicers, treemap, watterfall chart, line stacked shart, scatter chart, stacked bar chart, clustered column chart, gauge chart, donut chart
 6. Conditional formating

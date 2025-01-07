@@ -11,6 +11,10 @@ Topics that are covered in this exploration include:
 5. Developing core visualizations -> cards, slicers, treemap, watterfall chart, line stacked shart, scatter chart, stacked bar chart, clustered column chart, gauge chart, donut chart
 6. Conditional formating
 
+PowerBI_Portfolio_Project_1.pbix Dashboard:
+![image](https://github.com/user-attachments/assets/ddde886e-1a1a-4a3b-b136-88cf2ec12532)
+
+
 PowerBI_Portfolio_Project_2.pbix Dashboard:
 ![image](https://github.com/user-attachments/assets/9343d514-e759-4001-abc3-774ea5ece85e)
 

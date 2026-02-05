@@ -98,10 +98,10 @@ List of business-related enquiries and their relevance:
 
 This section presents a concise overview of the patterns and trends revealed through Exploratory Data Analysis (EDA) in relation to each of the questions posed above, followed by recommendations derived from the findings.
 
-#### Intearactive dashboard 
+### Intearactive dashboard 
 ![image](https://github.com/user-attachments/assets/9343d514-e759-4001-abc3-774ea5ece85e)
 
-#### Question 1 Insights and recommendations
+### Question 1 Insights and recommendations
 
 **Key Insights:** 
 
@@ -123,25 +123,38 @@ This section presents a concise overview of the patterns and trends revealed thr
   
 * Reallocate marketing and sales investments toward high-potential recovery markets to rebalance geographic contribution.
 
-#### Question 2 Insights and recommendations
+### Question 2 Insights and recommendations
+
+**Key Insights:** 
+
+* Customer value is highly concentrated, with a small number of accounts driving a large share of volume and gross profit.
+
+* A meaningful portion of volume originates from low-margin accounts, increasing profitability risk.
+
+* High-volume, low-margin customers indicate pricing inefficiencies and discount dependency.
+
+* The long tail of low-value customers contributes to operational inefficiency and margin dilution.
+
+**Based on this analysis, I recommend the following actions:**
+
+* Develop tiered account strategies, prioritising investment and service for high-value strategic customers.
+* Implement pricing optimisation and discount governance frameworks for high-volume, low-margin accounts.
+* Launch targeted cross-sell and upsell campaigns for low-volume, high-margin customers.
+* Review and streamline service models for low-value accounts to reduce cost-to-serve.
+
+### Question 3 Insights and recommendations
 
 **Key Insights:** 
 
 **Based on this analysis, I recommend the following actions:**
 
-#### Question 3 Insights and recommendations
+### Question 4 Insights and recommendations
 
 **Key Insights:** 
 
 **Based on this analysis, I recommend the following actions:**
 
-#### Question 4 Insights and recommendations
-
-**Key Insights:** 
-
-**Based on this analysis, I recommend the following actions:**
-
-#### Question 5 Insights and recommendations
+### Question 5 Insights and recommendations
 
 **Key Insights:** 
 

@@ -4,6 +4,20 @@ This portfolio project uses synthetic data designed to replicate a real-world bu
 
 ## Table of Contents
 
+- [Project Overview](#sales-intelligence-dashboard--geographic-customer--product-performance-analysis)
+- [Target Users](#target-users-executive-leadership-sales-management--business-stakeholders)
+- [Understanding the Data](#understanding-the-data)
+- [Data Analysis Framework](#data-analysis-framework)
+- [Analytical Focus & Key Business Questions](#analytical-focus--key-business-questions)
+- [Key Insights & Strategic Action Recommendations](#key-insights--strategic-action-recommendations)
+  - [Interactive Dashboard](#intearactive-dashboard)
+  - [Question 1 – Geographic Performance](#question-1-insights-and-recommendations)
+  - [Question 2 – Customer Value & Revenue Concentration](#question-2-insights-and-recommendations)
+  - [Question 3 – Product Portfolio Performance](#question-3-insights-and-recommendations)
+  - [Question 4 – Sales Trends & Seasonality](#question-4-insights-and-recommendations)
+  - [Question 5 – Account–Product Value Creation](#question-5-insights-and-recommendations)
+
+
 ## Target Users: Executive Leadership, Sales Management & Business Stakeholders
 
 This analysis is designed for business leaders and commercial stakeholders seeking to optimize sales performance and drive sustainable growth through data-driven decision-making. It delivers actionable insights into geographic performance, customer value creation, product portfolio effectiveness, pricing and margin dynamics, cross-sell opportunities, and long-term sales trends and seasonality.

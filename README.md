@@ -4,7 +4,6 @@ This portfolio project uses synthetic data designed to replicate a real-world bu
 
 ## Table of Contents
 
-- [Project Overview](#sales-intelligence-dashboard--geographic-customer--product-performance-analysis)
 - [Target Users](#target-users-executive-leadership-sales-management--business-stakeholders)
 - [Understanding the Data](#understanding-the-data)
 - [Data Analysis Framework](#data-analysis-framework)

@@ -167,7 +167,23 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Insights:** 
 
+* Business performance exhibits strong seasonal fluctuations.
+  
+* Growth is heavily concentrated in the second and early third quarter.
+  
+* Early and late-year months consistently underperform.
+  
+* Overall positive YTD growth masks significant intra-year volatility.
+  
+* Current trends increase forecasting complexity and planning risk.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Implement seasonality-adjusted forecasting models.
+* Launch off-season demand stimulation campaigns, such as targeted promotions and bundled offerings.
+* Optimise inventory and production planning cycles around peak and trough demand periods.
+* Introduce flexible staffing and logistics models to scale efficiently across seasonal demand shifts.
+* Build seasonality Key Performance Indicators (KPI) to track volatility, growth stability, and forecast accuracy.
 
 ### Question 5 Insights and recommendations
 

@@ -77,3 +77,24 @@ The following set of cleaning and transformation steps was implemented in this p
 * Setting up RELATIONS between different datasets in model back-end
 
 Next stages involve: 1) data visualisation by producing dynamic, interactive dashboards in MS Power BI using SLICERS, CARDS, CONDITIONAL FORMATTING and multiple CHARTS (TREEMAP, WATERFALL, COMBO and SCATTER); and 2) data storytelling by delivering a comprehensive analysis report using MS PowerPoint. The output of both steps is available in the GitHub repository under 'PowerBI_Portfolio_Project.pbix' and 'Stakeholder report.pptx', respectively.
+
+## Analytical Focus & Key Business Questions
+
+This section contains questions important to people from different teams in the fictional company, including 1) Senior Management; 2) Commercial & Sales Management; 3) Finance & Business Performance; and 4) Strategy & Business Intelligence. According to them, worth exploring and may provide insights into commercial performance, enabling data-driven strategies across sales growth, customer management, product optimization, and geographic expansion.
+
+List of business-related enquiries and their relevance:
+
+1. *Which countries, regions, and specific locations generate the highest sales and profit?* => Helps leadership prioritise geographic expansion, marketing spend, and sales coverage. 
+
+2. *Which accounts drive the most revenue and profitability, and how concentrated is our sales base?* => Supports key account strategy, customer risk management, and sales prioritisation.
+
+3. *Which product families and groups contribute most to revenue, volume, and margin?* => Informs product strategy, portfolio optimisation, and investment decisions.
+
+4. *How do sales trends evolve over time, and are there seasonality patterns?* => Enables forecasting, inventory planning, and resource allocation.
+
+5. *Which product–account combinations create the most value?* => Supports cross-sell, upsell, and account-based selling strategies.
+
+## Key Insights & Strategic Action Recommendations
+
+This section presents a concise overview of the patterns and trends revealed through Exploratory Data Analysis (EDA) in relation to each of the questions posed above, followed by recommendations derived from the findings.
+

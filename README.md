@@ -98,3 +98,51 @@ List of business-related enquiries and their relevance:
 
 This section presents a concise overview of the patterns and trends revealed through Exploratory Data Analysis (EDA) in relation to each of the questions posed above, followed by recommendations derived from the findings.
 
+#### Intearactive dashboard 
+![image](https://github.com/user-attachments/assets/9343d514-e759-4001-abc3-774ea5ece85e)
+
+#### Question 1 Insights and recommendations
+
+**Key Insights:** 
+
+* China and France together represent the largest volume declines, signaling urgent performance risks.
+  
+* Multiple European and Asian markets are simultaneously underperforming, indicating systemic regional challenges rather than isolated issues.
+  
+* Overall positive YTD growth is driven by a limited number of strong-performing countries, increasing concentration risk.
+  
+* Geographic imbalance suggests missed revenue opportunities and suboptimal market penetration in key regions.
+
+**Based on this analysis, I recommend the following actions:**
+
+* Conduct deep-dive root cause analysis in China and France focusing on pricing, competition, customer churn, and supply chain performance.
+  
+* Launch targeted commercial recovery plans for underperforming countries, including tailored promotions, product mix adjustments, and key account interventions.
+  
+* Strengthen regional sales execution and distributor performance management.
+  
+* Reallocate marketing and sales investments toward high-potential recovery markets to rebalance geographic contribution.
+
+#### Question 2 Insights and recommendations
+
+**Key Insights:** 
+
+**Based on this analysis, I recommend the following actions:**
+
+#### Question 3 Insights and recommendations
+
+**Key Insights:** 
+
+**Based on this analysis, I recommend the following actions:**
+
+#### Question 4 Insights and recommendations
+
+**Key Insights:** 
+
+**Based on this analysis, I recommend the following actions:**
+
+#### Question 5 Insights and recommendations
+
+**Key Insights:** 
+
+**Based on this analysis, I recommend the following actions:**

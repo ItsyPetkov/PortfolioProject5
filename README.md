@@ -65,3 +65,6 @@ The data for this project consists of three sperate spreadsheets: Dim_Account, F
 </tr>
 </table>
 
+Further data interventions will be made in Microsoft Power BI. For more information, please read the Data Analysis Framework section below.
+
+## Data Analysis Framework

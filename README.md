@@ -189,4 +189,20 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Insights:** 
 
+* High-value customers exhibit strong product–account alignment.
+
+* High-volume, low-margin accounts indicate missed cross-sell and upsell opportunities.
+
+* Low-volume, high-margin customers represent scalable growth potential.
+
+* Product mix optimisation at account level is a critical lever for margin improvement.
+
+* Systematic cross-sell strategies can materially increase customer lifetime value.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Develop account-level product affinity models to guide cross-sell targeting.
+* Implement structured cross-sell playbooks for strategic and growth accounts.
+* Introduce incentive mechanisms aligned to margin and product mix improvement, not just volume.
+* Deploy personalised product recommendations within sales planning and Customer Relationship Management (CRM) workflows.
+* Establish account-product Key Performance Indicators (KPI) to track mix quality, margin uplift, and cross-sell conversion.

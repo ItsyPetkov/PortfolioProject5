@@ -146,7 +146,22 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Insights:** 
 
+* Sales volume is concentrated in Outdoor and Landscape product types.
+  
+* Product demand displays strong seasonal patterns, particularly in the second and third quarter of the year.
+  
+* Indoor products provide more stable year-round performance but remain under-leveraged.
+  
+* Product mix imbalance increases forecasting, inventory, and operational risk.
+  
+* Portfolio performance is exposed to seasonality-driven volatility.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Expand Indoor product ranges and promotions to strengthen non-seasonal demand.
+* Introduce product bundling strategies that combine seasonal and non-seasonal items to stabilise revenue.
+* Implement seasonality-adjusted inventory planning models.
+* Optimise product lifecycle management, focusing investment on high-growth, high-margin categories.
 
 ### Question 4 Insights and recommendations
 

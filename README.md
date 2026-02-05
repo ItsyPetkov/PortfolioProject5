@@ -68,3 +68,12 @@ The data for this project consists of three sperate spreadsheets: Dim_Account, F
 Data processing will be applied in Microsoft Power BI. For more information, please read the Data Analysis Framework section below.
 
 ## Data Analysis Framework
+
+The following set of cleaning and transformation steps was implemented in this project: 
+
+* Data preprocessing - formatting data nad column names using DAX for consistency, readability and applicability
+* Duplicate checking and removal from unique identifiers
+* Building VIRTUAL TABLES, CALCULATED COLUMNS and MEASURES
+* Setting up RELATIONS between different datasets in model back-end
+
+Next stages involve: 1) data visualisation by producing dynamic, interactive dashboards in MS Power BI using SLICERS, CARDS, CONDITIONAL FORMATTING and multiple CHARTS (TREEMAP, WATERFALL, COMBO and SCATTER); and 2) data storytelling by delivering a comprehensive analysis report using MS PowerPoint. The output of both steps is available in the GitHub repository under 'PowerBI_Portfolio_Project.pbix' and 'Stakeholder report.pptx', respectively.

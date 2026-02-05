@@ -1,8 +1,8 @@
 # Sales Intelligence Dashboard – Geographic, Customer & Product Performance Analysis
 
-Two complete PowerBI pipelines involving data cleaning and visualizations stored in dashboards are avaialble in this repository: 1) PowerBI_Portfolio_Project_1.pbix -> a beginner-friendly project analyzing survey reviews from data professionals; 2) PowerBI_Portfolio_Project_2.pbix -> a more advanced project analyzing output reported data for a plant company.
+This portfolio project uses synthetic commercial sales data designed to replicate a real-world business environment. The dataset models transactional sales activity across customers, products, and geographic locations, enabling end-to-end analysis of commercial performance, customer behavior, product portfolio effectiveness, and sales trends.
 
-Topics that are covered in this exploration include:
+<!--Topics that are covered in this exploration include:
 
 1. Data cleaning with Power Query
 2. Creating new tables with DAX
@@ -16,5 +16,5 @@ PowerBI_Portfolio_Project_1.pbix Dashboard:
 
 
 PowerBI_Portfolio_Project_2.pbix Dashboard:
-![image](https://github.com/user-attachments/assets/9343d514-e759-4001-abc3-774ea5ece85e)
+![image](https://github.com/user-attachments/assets/9343d514-e759-4001-abc3-774ea5ece85e)-->
 

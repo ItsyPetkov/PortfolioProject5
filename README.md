@@ -111,7 +111,7 @@ List of business-related enquiries and their relevance:
 
 This section presents a concise overview of the patterns and trends revealed through Exploratory Data Analysis (EDA) in relation to each of the questions posed above, followed by recommendations derived from the findings.
 
-### Intearactive dashboard 
+### Interactive dashboard 
 ![image](https://github.com/user-attachments/assets/9343d514-e759-4001-abc3-774ea5ece85e)
 
 ### Question 1 Insights and recommendations
